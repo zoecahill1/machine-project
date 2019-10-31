@@ -27,3 +27,6 @@ This assessment concerns the well-known Boston House Prices dataset and the Pyth
 4. https://erikrood.com/Python_References/replace_nan_zero_final.html
 5. https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 6. https://www.investopedia.com/terms/t/t-test.asp
+7. https://stats.stackexchange.com/questions/7845/best-way-to-put-two-histograms-on-same-scale
+8. https://medium.com/@rrfd/f-tests-and-anovas-examples-with-the-iris-dataset-fe7caa3e21d0
+9. https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php
