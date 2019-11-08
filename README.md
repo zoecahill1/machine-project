@@ -37,4 +37,5 @@ This assessment concerns the well-known Boston House Prices dataset and the Pyth
 14. https://stackoverflow.com/questions/45035929/creating-new-pandas-dataframe-from-certain-columns-of-existing-dataframe
 15. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
 16. https://stackoverflow.com/questions/41808286/assert-two-variables-are-almost-equal-in-python
+17. https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
 17. https://docs.scipy.org/doc/numpy/reference/generated/numpy.isclose.html
