@@ -1,3 +1,4 @@
+
 # Machine Learning and Statistics - Assesment
 This repository contains my solution for the assessment of Machine Learning and Statistics in GMIT
 
@@ -39,3 +40,22 @@ This assessment concerns the well-known Boston House Prices dataset and the Pyth
 16. https://stackoverflow.com/questions/41808286/assert-two-variables-are-almost-equal-in-python
 17. https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
 17. https://docs.scipy.org/doc/numpy/reference/generated/numpy.isclose.html
+18. https://statisticsbyjim.com/regression/overfitting-regression-models/
+19. https://www.statisticssolutions.com/multicollinearity/
+20. https://www.investopedia.com/terms/v/variance-inflation-factor.asp
+21. https://etav.github.io/python/vif_factor_python.html
+22. https://www.researchgate.net/post/Multicollinearity_issues_is_a_value_less_than_10_acceptable_for_VIF
+23. https://www.statsmodels.org/stable/generated/statsmodels.regression.linear_model.OLSResults.outlier_test.html
+24. Mastering Machine Learning with Python in Six Steps: A Practical Implementation Guide to Predictive Data Analytics Using Python by Manohar Swamynathan
+25. https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+26. https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+27. https://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+28. https://stats.stackexchange.com/questions/134104/why-do-we-divide-by-the-standard-deviation-and-not-some-other-standardizing-fact
+29. https://stackoverflow.com/questions/45834276/numpyzero-mean-data-and-standardization
+30. https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw
+31. https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
+32. https://medium.com/@ewuramaminka/mean-absolute-error-mae-machine-learning-ml-b9b4afc63077
+33. https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+34. https://machinelearningmastery.com/k-fold-cross-validation/
+35. https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
+36. https://towardsdatascience.com/implementing-moving-averages-in-python-1ad28e636f9d
