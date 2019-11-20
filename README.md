@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/img/housing-banner.png" alt="banner"/>
-</p>
+![banner](/img/banner.png)
 # Machine Learning and Statistics - Assesment
 This repository contains my solution for the assessment of Machine Learning and Statistics in GMIT
 
