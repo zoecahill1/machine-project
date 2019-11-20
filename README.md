@@ -1,6 +1,7 @@
 <p align="center">
   <img src="/img/housing-banner.png" alt="banner"/>
 </p>
+
 # Machine Learning and Statistics - Assesment
 This repository contains my solution for the assessment of Machine Learning and Statistics in GMIT
 
@@ -19,9 +20,14 @@ This assessment concerns the well-known Boston House Prices dataset and the Pyth
 6. Type git clone, and then paste the URL you copied in Step 2. 7/ Press Enter. Your local clone will be created.
 
 ## Libraries Used 
-1. [Pandas](https://pandas.pydata.org/) -  an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
-2. [Matplotlib](https://matplotlib.org/) - is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
-3. [numpy](https://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code, useful linear algebra, Fourier transform, and random number capabilities.
+1. [numpy](https://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code, useful linear algebra, Fourier transform, and random number capabilities.
+2. [Pandas](https://pandas.pydata.org/) -  an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
+3. [Matplotlib](https://matplotlib.org/) - is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+4. [Seaborn](https://seaborn.pydata.org/) - is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+5. [scikit-learn](https://scikit-learn.org/stable/index.html) - is a software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+6. [SciPy](https://www.scipy.org/) - is open-source software for mathematics, science, and engineering. This project specifically uses the scipy.stats module which contains a large number of probability distributions as well as a growing library of statistical functions.
+7. [StatsModels](https://www.statsmodels.org/stable/index.html) - is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
+8. [Keras](https://keras.io/) - Keras is an open-source neural-network library written in Python. It’s used for building deep learning models.
 
 ## Refrences
 1. https://stackoverflow.com/questions/26873127/show-dataframe-as-table-in-ipython-notebook
